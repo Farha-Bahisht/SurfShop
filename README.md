@@ -64,6 +64,6 @@ app/
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Contact
-Your Name - @yourtwitter - email@example.com
+Your Name - @yourtwitter - bahisht1404@gmail.com
 
 Project Link: https://github.com/Farha-Bahisht/SurfShop
