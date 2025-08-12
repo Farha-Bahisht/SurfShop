@@ -1,6 +1,6 @@
 # SurfShop 🛒
 
-SurfShop is a simple Android shopping app with **Login**, **Home**, **Cart**, **Checkout**, and **Profile** screens.  
+SurfShop Android shopping app with **Login**, **Home**, **Cart**, **Checkout**, and **Profile** screens.  
 Built with **Kotlin** and **Firebase** for authentication and real-time data storage.
 
 
