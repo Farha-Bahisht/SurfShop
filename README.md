@@ -1,17 +1,17 @@
-# SurfShop 🛒
+# SurfShop 
 
 ## Overview
 SurfShop is a modern Android shopping application built with Kotlin that provides a seamless shopping experience for users. The app features a clean and intuitive interface, allowing users to browse products, manage their shopping cart, and complete purchases effortlessly.
 
 ## Features
-- 🛍️ Browse through a wide variety of products
-- 🛒 Add items to shopping cart
-- 📱 Modern and responsive UI
-- 🔍 Product search functionality
-- 🛍️ Product categories and filters
-- 🛍️ Shopping cart management
-- 🛍️ Product details view
-- 🛍️ Wishlist management
+- Browse through a wide variety of products
+- Add items to shopping cart
+- Modern and responsive UI
+- Product search functionality
+- Product categories and filters
+- Shopping cart management
+- Product details view
+- Wishlist management
 
 ## Tech Stack
 - Kotlin as primary programming language
