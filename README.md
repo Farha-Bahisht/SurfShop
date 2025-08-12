@@ -5,6 +5,8 @@ Built with **Kotlin** and **Firebase** for authentication and real-time data sto
 
 
 
+
+
 ## Features
 - User authentication (Firebase Auth)
 - Browse products on the home page
